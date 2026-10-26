@@ -35,6 +35,7 @@ MCP 的传输与状态模型经历了两轮重要变化，选型和排错前建�
 |-----------|---------|
 | **[GitHub](https://github.com/github/github-mcp-server)**（33.1K star） | Issues、PRs、仓库管理，GitHub 官方维护 |
 | **[Playwright](https://github.com/microsoft/playwright-mcp)**（37.5K star） | 微软官方，AI 精确控制网页、自动化测试与抓取 |
+| **[agent-qa](https://vostride.com)** | 自然语言测试 Web、Android 和 iOS 应用，具备持久化记忆与经验证的自我改进；提供本地 stdio / HTTP MCP（[配置文档](https://vostride.com/docs/agent-qa/mcp)） |
 | **[Chrome DevTools](https://github.com/ChromeDevTools/chrome-devtools-mcp)**（52.5K star） | Chrome 开发者工具集成，调试、性能分析 |
 | **[Context7](https://github.com/upstash/context7)**（62.4K star） | 实时获取最新库文档和代码示例，编码必备 |
 | **[Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server)** | 网页抓取、内容提取为 Markdown |
@@ -56,6 +57,7 @@ MCP 的传输与状态模型经历了两轮重要变化，选型和排错前建�
 |------|----------------|
 | **代码托管** | GitHub MCP |
 | **Web 自动化** | Playwright、Chrome DevTools |
+| **应用测试** | agent-qa |
 | **实时文档查询** | Context7 |
 | **网页抓取** | Firecrawl、Jina AI |
 | **知识管理** | Notion、飞书 Lark |
